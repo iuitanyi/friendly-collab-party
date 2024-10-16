@@ -1,2 +1,2 @@
 # friendly-collab-party
-Useful description of project.
+Useful description of project. Add more details.
